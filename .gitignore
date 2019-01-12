@@ -1,0 +1,19 @@
+# Editor files
+.idea
+.vscode
+
+# OS files
+.DS_STORE
+
+# Exclude compiled files
+/.eslintcache
+/tmp
+*.map
+
+# Private config files
+/config/test.env
+
+# npm files
+node_modules
+package-lock.json
+*.log
